@@ -1,1 +1,1 @@
-Leetcode solutions in ES 5 and ES 6
+Leetcode solutions in JAVA
